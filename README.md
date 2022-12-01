@@ -4,3 +4,5 @@ Aluno: Vinícius Almeida de Guedes Vaz
 Professor: Fabiano do Santos Moreira
 
 Atividade 1 - Cabeçalho do Site (Aula 1)
+
+Apenas uma iniciativa visual
